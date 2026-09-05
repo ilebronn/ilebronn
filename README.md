@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff10f0,00d4ff&height=180&section=header&text=Lebron%20James%20%22Saint%20L%22%20Maranan&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff10f0,00d4ff&height=180&section=header&text=ilebronn&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ### Information Technology Graduate
 Turning ideas into working systems — remote-ready, detail-driven.
