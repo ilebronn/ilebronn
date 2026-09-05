@@ -14,7 +14,7 @@
 \`\`\`js
 const Chill = {
     name: "Lebron James L. Maranan",
-    alias: ["Chill"],
+    alias: ["Saint L"],
     location: "Makati City, Philippines 🇵🇭",
     education: "BSIT @ Pinamalayan Maritime Foundation and Technological College",
     currentRoles: ["Freelance Virtual Assistant", "Assistant Language Teacher (Japan)"],
