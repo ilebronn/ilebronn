@@ -11,9 +11,7 @@
 ## About The Developer
 
 ```typescript
-const SaintL = {
-    name: "Lebron James L. Maranan",
-    alias: ["Saint L", "ilebronn"],
+const ilebronn = {
     location: "Makati City, Philippines ",
     education: "BS Information Technology, PMFTCI (2022–2026)",
     currentFocus: "Entry-Level IT Role",
