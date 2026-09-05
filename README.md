@@ -47,19 +47,20 @@ Mobile app built with **React Native, Node.js, and Firebase** that identifies pl
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true)
-![Streak Stats](https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilebronn&show_icons=true&theme=radical&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=ilebronn&theme=radical&hide_border=true)
 
 ## Find Me Here
 
 [![Email](https://img.shields.io/badge/-Email-FF4E50?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lebronjames.maranan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/xlebronn)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xlebronn)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lebron.xo/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ilebronn/)
+
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ec00c4,8b2fe0,00d4ff,1e3799&height=120&section=footer)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ilebronn&color=blue&style=flat)
 
 *"Small steady steps beat big scattered ones."*
