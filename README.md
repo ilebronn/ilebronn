@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ec00c4,8b2fe0,00d4ff,1e3799&height=180&section=header&text=Lebron%20James%20%22Saint%20L%22%20Maranan&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff10f0,00d4ff&height=180&section=header&text=Lebron%20James%20%22Saint%20L%22%20Maranan&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ### Information Technology Graduate
 Turning ideas into working systems — remote-ready, detail-driven.
@@ -59,8 +59,8 @@ Mobile app built with **React Native, Node.js, and Firebase** that identifies pl
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ec00c4,8b2fe0,00d4ff,1e3799&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff10f0,00d4ff&height=120&section=footer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ilebronn&color=blue&style=flat)
 
-*"Small steady steps beat big scattered ones."*
+*"There's always something that you can learn and something you can teach."*
