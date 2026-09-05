@@ -1,12 +1,12 @@
-# 🚀 Lebron James "Saint L" Maranan
+# 🚀 ilebronn
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF10F0&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Information+Technology+Graduate;Turning+Ideas+into+Working+Systems;Always+Learning%2C+Always+Building)
 
-![Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff10f0,00d4ff&height=100&section=header&text=&fontSize=0&animation=twinkling)
+![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:ff10f0,100:00d4ff&height=100&section=header&text=&fontSize=0&animation=twinkling)
 
 ## About The Developer
 
-\`\`\`typescript
+```typescript
 const SaintL = {
     name: "Lebron James L. Maranan",
     alias: ["Saint L", "ilebronn"],
@@ -24,7 +24,7 @@ const SaintL = {
     lifePhilosophy: "There's always something you can learn and something you can teach",
     funFact: "Built an AI species-scanner app for my capstone 🌿"
 };
-\`\`\`
+```
 
 ## Tech Arsenal
 
@@ -59,18 +59,18 @@ const SaintL = {
 
 ## Current Mission Status
 
-\`\`\`yaml
+```yaml
 Mission: Landing an entry-level IT role
 Status: Active Job Search Mode 🟢
 Availability: Open to opportunities in Metro Manila
 Learning: Cloud Architecture & APIs
 Next Goal: Contributing to open-source projects
 Focus Level: ████████░░ 80% 💻
-\`\`\`
+```
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff10f0,00d4ff&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=FFFFFF&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff10f0,100:00d4ff&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=FFFFFF&animation=twinkling)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ilebronn&color=FF10F0&style=for-the-badge)
 
