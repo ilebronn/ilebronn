@@ -1,8 +1,12 @@
-# 🚀 ilebronn
+<div align="center">
+
+# ilebronn
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF10F0&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Information+Technology+Graduate;Turning+Ideas+into+Working+Systems;Always+Learning%2C+Always+Building)
 
 ![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:ff10f0,100:00d4ff&height=100&section=header&text=&fontSize=0&animation=twinkling)
+
+</div>
 
 ## About The Developer
 
@@ -10,7 +14,7 @@
 const SaintL = {
     name: "Lebron James L. Maranan",
     alias: ["Saint L", "ilebronn"],
-    location: "Makati City, Philippines 🇵🇭",
+    location: "Makati City, Philippines ",
     education: "BS Information Technology, PMFTCI (2022–2026)",
     currentFocus: "Entry-Level IT Role",
     mission: "Building the future, one commit at a time",
@@ -22,7 +26,7 @@ const SaintL = {
     },
 
     lifePhilosophy: "There's always something you can learn and something you can teach",
-    funFact: "Built an AI species-scanner app for my capstone 🌿"
+    funFact: "Built an AI species-scanner app for my capstone"
 };
 ```
 
@@ -61,7 +65,7 @@ const SaintL = {
 
 ```yaml
 Mission: Landing an entry-level IT role
-Status: Active Job Search Mode 🟢
+Status: Active Job Search Mode 
 Availability: Open to opportunities in Metro Manila
 Learning: Cloud Architecture & APIs
 Next Goal: Contributing to open-source projects
@@ -74,4 +78,4 @@ Focus Level: ████████░░ 80% 💻
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ilebronn&color=FF10F0&style=for-the-badge)
 
-**"There's always something that you can learn and something you can teach"** ✨
+**"There's always something that you can learn and something you can teach"** 
