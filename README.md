@@ -8,6 +8,8 @@
 
 ## About The Developer
 
+</div>
+
 ```typescript
 const ilebronn = {
     location: "Makati City, Philippines ",
@@ -23,6 +25,8 @@ const ilebronn = {
     funFact: "Built an AI species-scanner app for my capstone"
 };
 ```
+
+<div align="center">
 
 ## Tech Arsenal
 
@@ -57,6 +61,8 @@ const ilebronn = {
 
 ## Current Mission Status
 
+</div>
+
 ```yaml
 Mission: Landing an entry-level IT role
 Status: Active Job Search Mode 
@@ -65,6 +71,8 @@ Learning: Cloud Architecture & APIs
 Next Goal: Contributing to open-source projects
 Focus Level: ████████░░ 80% 💻
 ```
+
+<div align="center">
 
 ---
 
