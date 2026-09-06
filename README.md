@@ -6,8 +6,6 @@
 
 ![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:ff10f0,100:00d4ff&height=100&section=header&text=&fontSize=0&animation=twinkling)
 
-</div>
-
 ## About The Developer
 
 ```typescript
@@ -16,13 +14,11 @@ const ilebronn = {
     education: "BS Information Technology, PMFTCI (2022–2026)",
     currentFocus: "Entry-Level IT Role",
     mission: "Building the future, one commit at a time",
-
     workingOn: {
         frontend: ["JavaScript", "React", "Figma"],
         backend: ["Node.js", "PHP", "Firebase"],
         exploring: ["React Native", "Cloud Architecture", "APIs"]
     },
-
     lifePhilosophy: "There's always something you can learn and something you can teach",
     funFact: "Built an AI species-scanner app for my capstone"
 };
@@ -76,4 +72,6 @@ Focus Level: ████████░░ 80% 💻
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ilebronn&color=FF10F0&style=for-the-badge)
 
-**"There's always something that you can learn and something you can teach"** 
+**"There's always something that you can learn and something you can teach"**
+
+</div>
